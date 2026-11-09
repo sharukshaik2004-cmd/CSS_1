@@ -1,0 +1,32 @@
+* {
+    background-color: lavender;
+}
+p {
+    color: black;
+    background-color: lightblue;
+}
+h1 {
+    color: black;
+    background-color: lightgreen;
+}
+h2 {
+    color: black;
+    background-color: lightyellow;
+}
+h3 {
+    color: black;
+    background-color: lightgray;
+}
+h4 {    
+    color: black;
+    background-color: lightpink;
+    
+}
+h5 {
+    color: black;
+    background-color: lightcoral;
+}   
+h6 {
+    color: black;
+    background-color: lightseagreen;
+}
